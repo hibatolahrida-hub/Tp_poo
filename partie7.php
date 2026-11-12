@@ -1,5 +1,4 @@
 <?php
-// Partie 7 – Mise en pratique : le compte bancaire
 
 class Compte {
     private float $montant;
